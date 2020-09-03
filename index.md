@@ -31,7 +31,10 @@
 	==== Apps ====
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
-
+	==== Projects ====
+	1. [[2020-09-03s|Starting a new Project]]
+	2. 
+	
 	=== python-decouple ===
 	* Decouple helps you to organize your settings so that you can change parameters without having to redeploy your app.
 	* It also makes it easy for you to:
@@ -40,5 +43,10 @@
 		* properly convert values to the correct data type;
 		* have only one configuration module to rule all your instances.
 	1. [[2020-09-03h|Hiding secret keys in .env files]]
+	2. 
+
+	=== virtualenv ===
+	* A tool for creating isolated virtual python environments.
+	1. [[2020-09-03se|Setting up a virtual environment]]
 	2. 
 
