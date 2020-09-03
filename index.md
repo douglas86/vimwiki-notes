@@ -48,9 +48,14 @@
 	1. [[2020-09-03cre|Creating a new model]]
 	2. 
 	==== Navbars ====
-	
+	1. [[2020-09-03ha|Hamburger Icon]]
+	2. [[2020-09-03new|new Navbar]]
+	3. 
 	==== Projects ====
 	1. [[2020-09-03s|Starting a new Project]]
+	2. 
+	==== Templates ====
+	1. [[2020-09-03crea|Creating a new template]]
 	2. 
 	
 	=== django-livereload-server ===
