@@ -99,16 +99,36 @@
 	=== pip commands ===
 	1. [[2020-09-03pi|pip commands]]
 	2. 
+
+	=== sockets ===
+	1. [[2020-09-03o|open sockets]]
+	2. 
 	
 	=== virtualenv ===
 	* A tool for creating isolated virtual python environments.
 	1. [[2020-09-03se|Setting up a virtual environment]]
 	2. 
 
-	== python packages ==
-	
 	== python scripts ==
 	1. [[2020-09-03dja|django-vim-blueprint]]
 	2. [[2020-09-03dj|django-VScode-blueprint]]
 	3. 
+
+= vim =
+
+	== Built-in features ==
+	=== timer ===
+	1. [[2020-09-03cl|Close all hidden buffers]]
+	2. 
+
+	== plugins ==
+	
+
+
+
+
+
+
+
+
 
