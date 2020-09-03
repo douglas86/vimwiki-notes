@@ -35,10 +35,20 @@
 	1. [[2020-09-03m|Manipulating the db using python shell]]	
 	2. 
 	==== Errors ====
-	1. [[[]]]
+	===== NoReverseMatch errors =====
+	1. [[2020-09-03no|Not found]]
+	2. 
+	===== Operational errors =====
+	1. [[2020-09-03n|No such table]]
+	2. 
+	==== Miscellanous ====
+	1. [[2020-09-03a|app name]]
+	2. 
 	==== Models ====
 	1. [[2020-09-03cre|Creating a new model]]
 	2. 
+	==== Navbars ====
+	
 	==== Projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
