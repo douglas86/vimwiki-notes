@@ -56,6 +56,12 @@
 	2. 
 	==== Templates ====
 	1. [[2020-09-03crea|Creating a new template]]
+	2. [[2020-09-03da|Database rendering]]
+	3. [[2020-09-03nav|Navbar]]
+	4. [[2020-09-03sy|Syntax]]
+	5. 
+	==== Views ====
+	1. [[2020-09-03des|Description]]
 	2. 
 	
 	=== django-livereload-server ===
