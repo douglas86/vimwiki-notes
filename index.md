@@ -62,7 +62,12 @@
 	5. 
 	==== Views ====
 	1. [[2020-09-03des|Description]]
-	2. 
+	2. [[2020-09-03det|Details-view]]
+	3. [[2020-09-03he|hello world]]
+	4. [[2020-09-03na|naming apps]]
+	5. [[2020-09-03pa|page view]]
+	6. [[2020-09-03re|Removing hardcoded urls]]
+	7. 
 	
 	=== django-livereload-server ===
 	* This django app adds a management command that starts a livereload server watching all your static files and 
