@@ -24,7 +24,13 @@
 	* Built by experienced developers, it takes care of much of the hassle of Web development, 
 	* so you can focus on writing your app without needing to reinvent the wheel. 
 	* It's free and open source. Ridiculously fast.
-	1. 
+	==== Admin panel ====
+	1. [[2020-09-03c|Creating new superuser]]
+	2. [[2020-09-03r|Registering model with admin]]
+	3. 
+	==== Apps ====
+	1. [[2020-09-03cr|Creating a new app]]
+	2. 
 
 	=== python-decouple ===
 	* Decouple helps you to organize your settings so that you can change parameters without having to redeploy your app.
