@@ -17,7 +17,7 @@
 	2. 
 
 = python =
-	== pip packages ==
+	== frameworks ==
 	
 	=== django ===
 	* Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
@@ -69,6 +69,12 @@
 	6. [[2020-09-03re|Removing hardcoded urls]]
 	7. 
 	
+	=== info ===
+	1. [[2020-09-03desc|Description of what a framework is]]
+	2. 
+	
+	== pip packages ==
+	
 	=== django-livereload-server ===
 	* This django app adds a management command that starts a livereload server watching all your static files and 
 	* templates as well as a custom runserver command that issues livereload requests when the development server 
@@ -90,6 +96,10 @@
 	1. [[2020-09-03h|Hiding secret keys in .env files]]
 	2. 
 
+	=== pip commands ===
+	1. [[2020-09-03pi|pip commands]]
+	2. 
+	
 	=== virtualenv ===
 	* A tool for creating isolated virtual python environments.
 	1. [[2020-09-03se|Setting up a virtual environment]]
