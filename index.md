@@ -41,6 +41,8 @@
 	===== operational errors =====
 	1. [[2020-09-03n|No such table]]
 	2. 
+	==== forms ====
+	
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
