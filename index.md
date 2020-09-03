@@ -31,12 +31,20 @@
 	==== Apps ====
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
+	
 	==== Projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
 	
+	=== django-livereload-server ===
+	* This django app adds a management command that starts a livereload server watching all your static files and 
+	* templates as well as a custom runserver command that issues livereload requests when the development server 
+	* is ready after a restart.
+	1. [[2020-09-03sett|Setting up and installing django-livereload-server]]	
+	2. 
+	
 	=== django-livesync ===
-	1. [[2020-09-04set|Setting up and installing django-livesync]]
+	1. [[2020-09-03set|Setting up and installing django-livesync]]
 	2. 
 	
 	=== python-decouple ===
