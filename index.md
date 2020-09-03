@@ -45,8 +45,9 @@
 	1. [[2020-0-03addi|Adding base templates to forms]]
 	2. [[2020-09-03addin|Adding bootstrap to forms]]
 	3. [[2020-09-03ad|Adding forms]]
-	4. [[2020-09-03w|What is the csrf_token]]
-	5. 
+	4. [[2020-09-03e|Editing forms]]
+	5. [[2020-09-03w|What is the csrf_token]]
+	6. 
 	
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
