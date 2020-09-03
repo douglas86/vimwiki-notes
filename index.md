@@ -105,3 +105,10 @@
 	1. [[2020-09-03se|Setting up a virtual environment]]
 	2. 
 
+	== python packages ==
+	
+	== python scripts ==
+	1. [[2020-09-03dja|django-vim-blueprint]]
+	2. [[2020-09-03dj|django-VScode-blueprint]]
+	3. 
+
