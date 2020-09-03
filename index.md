@@ -42,10 +42,10 @@
 	1. [[2020-09-03n|No such table]]
 	2. 
 	==== forms ====
-	
-	1. [[2020-09-03ad|Adding forms]]
-	2. [[2020-09-03w|What is the csrf_token]]
-	3. 
+	1. [[2020-0-03addi|Adding base templates to forms]]
+	2. [[2020-09-03ad|Adding forms]]
+	3. [[2020-09-03w|What is the csrf_token]]
+	4. 
 	
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
