@@ -9,3 +9,7 @@
 		2. [[2020-09-03p|Pushing to github]]
 		3. 
 
+= python =
+	== pip packages ==
+		=== python-decouple ===
+		
