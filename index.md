@@ -35,6 +35,10 @@
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
 	
+	=== django-livesync ===
+	1. [[2020-09-04set|Setting up and installing django-livesync]]
+	2. 
+	
 	=== python-decouple ===
 	* Decouple helps you to organize your settings so that you can change parameters without having to redeploy your app.
 	* It also makes it easy for you to:
