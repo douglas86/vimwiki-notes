@@ -24,43 +24,43 @@
 	* Built by experienced developers, it takes care of much of the hassle of Web development, 
 	* so you can focus on writing your app without needing to reinvent the wheel. 
 	* It's free and open source. Ridiculously fast.
-	==== Admin panel ====
+	==== admin panel ====
 	1. [[2020-09-03c|Creating new superuser]]
 	2. [[2020-09-03r|Registering model with admin]]
 	3. 
-	==== Apps ====
+	==== apps ====
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
-	==== Databases ====
+	==== databases ====
 	1. [[2020-09-03m|Manipulating the db using python shell]]	
 	2. 
-	==== Errors ====
-	===== NoReverseMatch errors =====
+	==== errors ====
+	===== noReverseMatch errors =====
 	1. [[2020-09-03no|Not found]]
 	2. 
-	===== Operational errors =====
+	===== operational errors =====
 	1. [[2020-09-03n|No such table]]
 	2. 
-	==== Miscellanous ====
+	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
-	==== Models ====
+	==== models ====
 	1. [[2020-09-03cre|Creating a new model]]
 	2. 
-	==== Navbars ====
+	==== navbars ====
 	1. [[2020-09-03ha|Hamburger Icon]]
 	2. [[2020-09-03new|new Navbar]]
 	3. 
-	==== Projects ====
+	==== projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
-	==== Templates ====
+	==== templates ====
 	1. [[2020-09-03crea|Creating a new template]]
 	2. [[2020-09-03da|Database rendering]]
 	3. [[2020-09-03nav|Navbar]]
 	4. [[2020-09-03sy|Syntax]]
 	5. 
-	==== Views ====
+	==== views ====
 	1. [[2020-09-03des|Description]]
 	2. [[2020-09-03det|Details-view]]
 	3. [[2020-09-03he|hello world]]
@@ -122,7 +122,9 @@
 	2. 
 
 	== keybindings ==
-	
+	=== code folding ===
+	1. [[2020-09-03shor|shortcut keys]]
+	2. 
 	
 	== plugins ==
 	=== python-mode ===
@@ -140,6 +142,11 @@
 	4. [[2020-09-03syn|Syntax]]
 	5. 
 
+= vscode =
+	== errors ==
+	=== installation errors ===
+	1. [[2020-09-03can|Can't perform user install]]
+	2. 
 
 
 
