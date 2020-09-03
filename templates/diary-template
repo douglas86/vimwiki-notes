@@ -1,0 +1,18 @@
+#!/usr/bin/python
+import sys
+from datetime import datetime
+
+template = """= {date} =
+
+== Daily checklist ==
+
+* [ ] Check what tasks todo
+
+== ToDo ==
+    1.
+
+== Notes ==
+    *"""
+now = datetime.now()
+date = now.strftime("%a %d %B %Y")
+print(template.format(date=date))
