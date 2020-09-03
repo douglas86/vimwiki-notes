@@ -31,7 +31,14 @@
 	==== Apps ====
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
-	
+	==== Databases ====
+	1. [[2020-09-03m|Manipulating the db using python shell]]	
+	2. 
+	==== Errors ====
+	1. [[[]]]
+	==== Models ====
+	1. [[2020-09-03cre|Creating a new model]]
+	2. 
 	==== Projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
