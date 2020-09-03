@@ -121,9 +121,24 @@
 	1. [[2020-09-03cl|Close all hidden buffers]]
 	2. 
 
-	== plugins ==
+	== keybindings ==
 	
+	
+	== plugins ==
+	=== python-mode ===
+	1. [[2020-09-03i|Installing python-mode]]
+	2. 
 
+	=== vimspector ===
+	1. [[2020-09-03setti|Setting up vimspector]]
+	2. 
+
+	=== vimwiki ===
+	1. [[2020-09-03ch|Cheatsheet]]
+	2. [[2020-09-03co|Commands]]
+	3. [[2020-09-03sh|shortcuts]]
+	4. [[2020-09-03syn|Syntax]]
+	5. 
 
 
 
