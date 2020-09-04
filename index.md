@@ -32,8 +32,9 @@
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
 	==== databases ====
-	1. [[2020-09-03m|Manipulating the db using python shell]]	
-	2. 
+	1. [[2020-09-04d|Deleting an item from the db]]
+	2. [[2020-09-03m|Manipulating the db using python shell]]	
+	3. 
 	==== errors ====
 	===== noReverseMatch errors =====
 	1. [[2020-09-03no|Not found]]
