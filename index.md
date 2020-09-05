@@ -43,7 +43,8 @@
 	9. [[2020-09-05r|Registration success message]]
 	10. [[2020-09-05res|Restriction routes]]
 	11. [[2020-09-05s|Saving users]]
-	12. 
+	12. [[2020-09-05se|Setting up a default profile picture]]
+	13. 
 	==== databases ====
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
