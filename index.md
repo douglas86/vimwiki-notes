@@ -35,9 +35,10 @@
 	1. [[2020-09-05a|Adding aditional fields]]
 	2. [[2020-09-04c|Creating user registration form]] 
 	3. [[2020-09-05l|Logging in Users]]
-	4. [[2020-09-05r|Registration success message]]
-	5. [[2020-09-05s|Saving users]]
-	6. 
+	4. [[2020-09-05re|Redirecting registered users and logout functionality]]
+	5. [[2020-09-05r|Registration success message]]
+	6. [[2020-09-05s|Saving users]]
+	7. 
 	==== databases ====
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
