@@ -32,10 +32,11 @@
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
 	==== authentication ====
-	1. [[2020-09-04c|Creating user registration form]] 
-	2. [[2020-09-05r|Registration success message]]
-	3. [[2020-09-05s|Saving users]]
-	4. 
+	1. [[2020-09-05a|Adding aditional fields]]
+	2. [[2020-09-04c|Creating user registration form]] 
+	3. [[2020-09-05r|Registration success message]]
+	4. [[2020-09-05s|Saving users]]
+	5. 
 	==== databases ====
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
