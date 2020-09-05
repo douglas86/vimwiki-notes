@@ -35,14 +35,15 @@
 	1. [[2020-09-05a|Adding aditional fields]]
 	2. [[2020-09-05ad|Adding login options to navbar]]
 	3. [[2020-09-05addi|Adding path to upload image]]
-	4. [[2020-09-05cr|Creating the Profile model]]
-	5. [[2020-09-04c|Creating user registration form]] 
-	6. [[2020-09-05l|Logging in Users]]
-	7. [[2020-09-05re|Redirecting registered users and logout functionality]]
-	8. [[2020-09-05r|Registration success message]]
-	9. [[2020-09-05res|Restriction routes]]
-	10. [[2020-09-05s|Saving users]]
-	11. 
+	4. [[2020-09-05addin|Adding the user profile picture]]
+	5. [[2020-09-05cr|Creating the Profile model]]
+	6. [[2020-09-04c|Creating user registration form]] 
+	7. [[2020-09-05l|Logging in Users]]
+	8. [[2020-09-05re|Redirecting registered users and logout functionality]]
+	9. [[2020-09-05r|Registration success message]]
+	10. [[2020-09-05res|Restriction routes]]
+	11. [[2020-09-05s|Saving users]]
+	12. 
 	==== databases ====
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
