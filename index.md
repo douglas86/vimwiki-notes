@@ -34,6 +34,7 @@
 	==== authentication ====
 	1. [[2020-09-05a|Adding aditional fields]]
 	2. [[2020-09-04c|Creating user registration form]] 
+	
 	3. [[2020-09-05r|Registration success message]]
 	4. [[2020-09-05s|Saving users]]
 	5. 
