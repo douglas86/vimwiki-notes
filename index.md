@@ -77,6 +77,8 @@
 	==== projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
+	==== signals ====
+	
 	==== templates ====
 	1. [[2020-09-03crea|Creating a new template]]
 	2. [[2020-09-03da|Database rendering]]
