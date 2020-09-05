@@ -33,7 +33,8 @@
 	2. 
 	==== authentication ====
 	1. [[2020-09-04c|Creating user registration form]] 
-	2. 
+	2. [[2020-09-05r|Registration success message]]
+	3. 
 	==== databases ====
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
