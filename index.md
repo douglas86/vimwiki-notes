@@ -34,13 +34,14 @@
 	==== authentication ====
 	1. [[2020-09-05a|Adding aditional fields]]
 	2. [[2020-09-05ad|Adding login options to navbar]]
-	3. [[2020-09-04c|Creating user registration form]] 
-	4. [[2020-09-05l|Logging in Users]]
-	5. [[2020-09-05re|Redirecting registered users and logout functionality]]
-	6. [[2020-09-05r|Registration success message]]
-	7. [[2020-09-05res|Restriction routes]]
-	8. [[2020-09-05s|Saving users]]
-	9. 
+	3. [[2020-09-05cr|Creating the Profile model]]
+	4. [[2020-09-04c|Creating user registration form]] 
+	5. [[2020-09-05l|Logging in Users]]
+	6. [[2020-09-05re|Redirecting registered users and logout functionality]]
+	7. [[2020-09-05r|Registration success message]]
+	8. [[2020-09-05res|Restriction routes]]
+	9. [[2020-09-05s|Saving users]]
+	10. 
 	==== databases ====
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
