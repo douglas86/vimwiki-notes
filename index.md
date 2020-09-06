@@ -88,13 +88,14 @@
 	4. [[2020-09-03sy|Syntax]]
 	5. 
 	==== views ====
-	1. [[2020-09-03des|Description]]
-	2. [[2020-09-03det|Details-view]]
-	3. [[2020-09-03he|hello world]]
-	4. [[2020-09-03na|naming apps]]
-	5. [[2020-09-03pa|page view]]
-	6. [[2020-09-03re|Removing hardcoded urls]]
-	7. 
+	1. [[2020-09-06c|Class based views]]
+	2. [[2020-09-03des|Description]]
+	3. [[2020-09-03det|Details-view]]
+	4. [[2020-09-03he|hello world]]
+	5. [[2020-09-03na|naming apps]]
+	6. [[2020-09-03pa|page view]]
+	7. [[2020-09-03re|Removing hardcoded urls]]
+	8. 
 	
 	=== info ===
 	1. [[2020-09-03desc|Description of what a framework is]]
