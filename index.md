@@ -63,8 +63,9 @@
 	3. [[2020-09-03ad|Adding forms]]
 	4. [[2020-09-03e|Editing forms]]
 	5. [[2020-09-06s|Styling a login form using bootstrap]]
-	6. [[2020-09-03w|What is the csrf_token]]
-	7. 
+	6. [[2020-09-06st|Styling a registration form using bootstrap]]
+	7. [[2020-09-03w|What is the csrf_token]]
+	8. 
 	
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
