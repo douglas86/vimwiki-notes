@@ -68,8 +68,9 @@
 	1. [[2020-09-03a|app name]]
 	2. 
 	==== models ====
-	1. [[2020-09-03cre|Creating a new model]]
-	2. 
+	1. [[2020-09-06a|Add user to post]]
+	2. [[2020-09-03cre|Creating a new model]]
+	3. 
 	==== navbars ====
 	1. [[2020-09-03ha|Hamburger Icon]]
 	2. [[2020-09-03new|new Navbar]]
