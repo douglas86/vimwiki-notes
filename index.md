@@ -78,8 +78,9 @@
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
 	==== signals ====
-	1. [[2020-09-05w|What are django signals]]
-	2. 
+	1. [[2020-09-06i|Implementing Django signals]]
+	2. [[2020-09-05w|What are django signals]]
+	3. 
 	==== templates ====
 	1. [[2020-09-03crea|Creating a new template]]
 	2. [[2020-09-03da|Database rendering]]
