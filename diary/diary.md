@@ -2,6 +2,7 @@
 == 2020 ==
 
 === September ===
+    - [[2020-09-06|Sun 06 September 2020]]
     - [[2020-09-05|Sat 05 September 2020]]
     - [[2020-09-04|Fri 04 September 2020]]
     - [[2020-09-03|Thu 03 September 2020]]
