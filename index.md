@@ -69,8 +69,9 @@
 	2. 
 	==== models ====
 	1. [[2020-09-06a|Add user to post]]
-	2. [[2020-09-03cre|Creating a new model]]
-	3. 
+	2. [[2020-09-06add|Adding get absolute method]]
+	3. [[2020-09-03cre|Creating a new model]]
+	4. 
 	==== navbars ====
 	1. [[2020-09-03ha|Hamburger Icon]]
 	2. [[2020-09-03new|new Navbar]]
