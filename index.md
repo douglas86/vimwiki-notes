@@ -89,6 +89,7 @@
 	5. 
 	==== views ====
 	1. [[2020-09-06c|Class based views]]
+		* [[2020-09-06im|Implementing classes based detail view]]
 	2. [[2020-09-03des|Description]]
 	3. [[2020-09-03det|Details-view]]
 	4. [[2020-09-03he|hello world]]
