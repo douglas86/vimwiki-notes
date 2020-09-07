@@ -70,7 +70,9 @@
 	8. [[2020-09-03w|What is the csrf_token]]
 	9. 
 	==== going live ====
-	1. 
+	1. Google Cloud Platform
+		* [[2020-09-07i|installing command-line-tool]]
+	2. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
