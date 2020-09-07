@@ -72,7 +72,10 @@
 	==== going live ====
 	1. Google Cloud Platform
 		* [[2020-09-07i|installing command-line-tool]]
-	2. 
+	2. Heroku
+		* [[2020-09-07d|Downloading and installing Heroku CLI]]
+		* 
+	3. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
