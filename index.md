@@ -69,7 +69,8 @@
 	7. [[2020-09-06sty|Styling the add items page using bootstrap]]
 	8. [[2020-09-03w|What is the csrf_token]]
 	9. 
-	
+	==== going live ====
+	1. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
