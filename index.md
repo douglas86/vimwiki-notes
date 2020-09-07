@@ -50,6 +50,7 @@
 	1. [[2020-09-04d|Deleting an item from the db]]
 	2. [[2020-09-03m|Manipulating the db using python shell]]	
 	3. 
+	
 	==== errors ====
 	===== noReverseMatch errors =====
 	1. [[2020-09-03no|Not found]]
@@ -57,6 +58,7 @@
 	===== operational errors =====
 	1. [[2020-09-03n|No such table]]
 	2. 
+	
 	==== forms ====
 	1. [[2020-0-03addi|Adding base templates to forms]]
 	2. [[2020-09-03addin|Adding bootstrap to forms]]
