@@ -73,6 +73,7 @@
 	1. Google Cloud Platform
 		* [[2020-09-07i|installing command-line-tool]]
 	2. Heroku
+		* [[2020-09-08c|Connecting heroku and github]]
 		* [[2020-09-07d|Downloading and installing Heroku CLI]]
 		* [[2020-09-07u|Uploading an app]]
 	3. 
