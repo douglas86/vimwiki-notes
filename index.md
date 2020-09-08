@@ -9,8 +9,9 @@
 	2. [[2020-09-08g|Github terminal commands]]
 	3. [[2020-09-08h|Having a look at all commits]]
 	4. [[2020-09-08m|Moving to different branches]]
-	5. [[2020-09-03p|Pushing to github]]
-	6. 
+	5. [[2020-09-08pu|Pushing to a branch]]
+	6. [[2020-09-03p|Pushing to github]]
+	7. 
 
 = javascript =
 	== frameworks ==
