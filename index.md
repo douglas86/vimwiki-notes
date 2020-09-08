@@ -33,9 +33,10 @@
 	2. [[2020-09-03r|Registering model with admin]]
 	3. 
 	==== api's ====
-	1. [[2020-09-08s|Setting up the Django project & Movie model]]
-	2. [[2020-09-08w|what is a rest api]]
-	3. 
+	1. [[2020-09-08cr|Creating serializer]]
+	2. [[2020-09-08s|Setting up the Django project & Movie model]]
+	3. [[2020-09-08w|what is a rest api]]
+	4. 
 	==== apps ====
 	1. [[2020-09-03cr|Creating a new app]]
 	2. 
