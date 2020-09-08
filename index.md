@@ -7,8 +7,9 @@
 	== github-terminal ==
 	1. [[2020-09-03do|Downloading and installing]]
 	2. [[2020-09-08h|Having a look at all commits]]
-	3. [[2020-09-03p|Pushing to github]]
-	4. 
+	3. [[2020-09-08m|Moving to different branches]]
+	4. [[2020-09-03p|Pushing to github]]
+	5. 
 
 = javascript =
 	== frameworks ==
