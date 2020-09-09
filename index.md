@@ -6,12 +6,13 @@
 
 	== github-terminal ==
 	1. [[2020-09-03do|Downloading and installing]]
-	2. [[2020-09-08g|Github terminal commands]]
-	3. [[2020-09-08h|Having a look at all commits]]
-	4. [[2020-09-08m|Moving to different branches]]
-	5. [[2020-09-08pu|Pushing to a branch]]
-	6. [[2020-09-03p|Pushing to github]]
-	7. 
+	2. [[2020-09-09g|Get previous commit]]
+	3. [[2020-09-08g|Github terminal commands]]
+	4. [[2020-09-08h|Having a look at all commits]]
+	5. [[2020-09-08m|Moving to different branches]]
+	6. [[2020-09-08pu|Pushing to a branch]]
+	7. [[2020-09-03p|Pushing to github]]
+	8. 
 
 = javascript =
 	== frameworks ==
