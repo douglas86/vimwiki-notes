@@ -11,8 +11,9 @@
 	4. [[2020-09-08h|Having a look at all commits]]
 	5. [[2020-09-08m|Moving to different branches]]
 	6. [[2020-09-08pu|Pushing to a branch]]
-	7. [[2020-09-03p|Pushing to github]]
-	8. 
+	7. [[2020-09-09pu|Pushing to master branch]]
+	8. [[2020-09-03p|Pushing to github]]
+	9. 
 
 = javascript =
 	== frameworks ==
