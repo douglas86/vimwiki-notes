@@ -35,6 +35,7 @@
 	3. 
 	==== api's ====
 	1. [[2020-09-09a|Adding API endpoints]]
+	
 	2. [[2020-09-08cr|Creating serializer]]
 	3. [[2020-09-08s|Setting up the Django project & Movie model]]
 	4. [[2020-09-09s|Setting up views and url's]]
