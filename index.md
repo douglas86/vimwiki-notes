@@ -105,7 +105,8 @@
 	2. [[2020-09-03new|new Navbar]]
 	3. 
 	==== pagination ====
-	
+	1. [[2020-09-10a|Adding pagination]]
+	2. 
 	==== projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
