@@ -93,6 +93,12 @@
 		* [[2020-09-07e|Errors when deploying]]
 		* [[2020-09-07u|Uploading an app]]
 	3. 
+	==== html templates ====
+	1. [[2020-09-03crea|Creating a new template]]
+	2. [[2020-09-03da|Database rendering]]
+	3. [[2020-09-03nav|Navbar]]
+	4. [[2020-09-03sy|Syntax]]
+	5. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
@@ -116,12 +122,9 @@
 	1. [[2020-09-06i|Implementing Django signals]]
 	2. [[2020-09-05w|What are django signals]]
 	3. 
-	==== templates ====
-	1. [[2020-09-03crea|Creating a new template]]
-	2. [[2020-09-03da|Database rendering]]
-	3. [[2020-09-03nav|Navbar]]
-	4. [[2020-09-03sy|Syntax]]
-	5. 
+	==== static files ====
+	1. [[2020-09-10i|Including static files in html templates]]
+	2. 
 	==== views ====
 	1. [[2020-09-06c|Class based views]]
 		* [[2020-09-06im|Implementing classes based detail view]]
