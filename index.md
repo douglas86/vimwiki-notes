@@ -61,9 +61,10 @@
 	13. [[2020-09-05se|Setting up a default profile picture]]
 	14. 
 	==== databases ====
-	1. [[2020-09-04d|Deleting an item from the db]]
-	2. [[2020-09-03m|Manipulating the db using python shell]]	
-	3. 
+	1. [[2020-09-10add|Adding Products to a database]]
+	2. [[2020-09-04d|Deleting an item from the db]]
+	3. [[2020-09-03m|Manipulating the db using python shell]]	
+	4. 
 	
 	==== errors ====
 	===== noReverseMatch errors =====
