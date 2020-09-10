@@ -19,6 +19,7 @@
     - [[2020-08-27|Thu 27 August 2020]]
     - [[2020-08-26|Wed 26 August 2020]]
     - [[2020-08-25|2020-08-25]]
+    - [[2020-08-19|MotorBike operation]]
     - [[2020-08-13|Available sockets for localhost]]
     - [[2020-08-10|Tasks]]
     - [[2020-08-06|6 August 2020]]
