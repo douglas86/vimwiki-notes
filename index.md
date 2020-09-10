@@ -104,6 +104,8 @@
 	1. [[2020-09-03ha|Hamburger Icon]]
 	2. [[2020-09-03new|new Navbar]]
 	3. 
+	==== pagination ====
+	
 	==== projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
