@@ -106,8 +106,8 @@
 	3. 
 	==== pagination & search ====
 	1. [[2020-09-10a|Adding pagination]]
-	
-	2. 
+	2. [[2020-09-10ad|Adding search functionality]]
+	3. 
 	==== projects ====
 	1. [[2020-09-03s|Starting a new Project]]
 	2. 
