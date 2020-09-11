@@ -101,6 +101,11 @@
 	5. [[2020-09-11se|Setting decimal places in templates]]
 	6. [[2020-09-03sy|Syntax]]
 	7. 
+	==== JavaScript ====
+	1. JQuery
+		* [[2020-09-11g|Getting the jquery cdn link]]
+		* 
+	2. 
 	==== local storage ====
 	1. [[2020-09-11u|Using the js side panel in web browser]]
 	2. 
