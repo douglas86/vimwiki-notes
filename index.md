@@ -101,6 +101,9 @@
 	5. [[2020-09-11se|Setting decimal places in templates]]
 	6. [[2020-09-03sy|Syntax]]
 	7. 
+	==== local storage ====
+	1. [[2020-09-11u|Using local storage to add items to cart]]
+	2. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
