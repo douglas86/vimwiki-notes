@@ -102,7 +102,7 @@
 	6. [[2020-09-03sy|Syntax]]
 	7. 
 	==== local storage ====
-	1. [[2020-09-11u|Using local storage to add items to cart]]
+	1. [[2020-09-11u|Using the js side panel in web browser]]
 	2. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
