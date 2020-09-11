@@ -103,6 +103,7 @@
 	7. 
 	==== JavaScript ====
 	1. JQuery
+		* [[2020-09-11b|Button clicks]]
 		* [[2020-09-11g|Getting the jquery cdn link]]
 		* 
 	2. 
