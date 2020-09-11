@@ -193,6 +193,11 @@
 	1. [[2020-09-03shor|shortcut keys]]
 	2. 
 	
+	=== spell checking ===
+	1. [[2020-09-11c|Configuring spell checker in your vimrc]]
+	2. [[2020-09-11s|Shortcut keys]]
+	3. 
+	
 	== plugins ==
 	=== python-mode ===
 	1. [[2020-09-03i|Installing python-mode]]
