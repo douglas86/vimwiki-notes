@@ -106,6 +106,7 @@
 		* [[2020-09-11b|Button clicks]]
 		* [[2020-09-11g|Getting the jquery cdn link]]
 		* [[2020-09-11gr|Grabbing a product by id]]
+		* [[2020-09-11sa|Saving items to cart]]
 	2. 
 	==== local storage ====
 	1. [[2020-09-11u|Using the js side panel in web browser]]
