@@ -97,8 +97,9 @@
 	1. [[2020-09-03crea|Creating a new template]]
 	2. [[2020-09-03da|Database rendering]]
 	3. [[2020-09-03nav|Navbar]]
-	4. [[2020-09-03sy|Syntax]]
-	5. 
+	4. [[2020-09-11se|Setting decimal places in templates]]
+	5. [[2020-09-03sy|Syntax]]
+	6. 
 	==== miscellanous ====
 	1. [[2020-09-03a|app name]]
 	2. 
