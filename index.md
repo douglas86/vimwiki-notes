@@ -36,10 +36,11 @@
 	4. 
 	== plugins ==
 	1. [[2020-09-12a|auto-pairs]]
-	2. [[2020-09-12vi|vim-airline]]
-	3. [[2020-09-12vim|vim-airline-themes]]
-	4. [[2020-09-12v|vim-auto-save]]
-	5. 
+	2. [[2020-09-12n|nerdcommenter]]
+	3. [[2020-09-12vi|vim-airline]]
+	4. [[2020-09-12vim|vim-airline-themes]]
+	5. [[2020-09-12v|vim-auto-save]]
+	6. 
 
 = python =
 	== frameworks ==
