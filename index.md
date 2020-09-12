@@ -35,7 +35,8 @@
 	3. [[2020-09-12in|Installing plugin manager]]
 	4. 
 	== plugins ==
-	1. 
+	1. [[2020-09-12v|vim-auto-save]]
+	2. 
 
 = python =
 	== frameworks ==
