@@ -36,16 +36,22 @@
 	4. 
 	== plugins ==
 	1. [[2020-09-12a|auto-pairs]]
-	2. [[2020-09-12n|nerdcommenter]]
-	3. [[2020-09-12ne|nerdtree]]
-	
-	4. [[2020-09-12ner|nerdtree-git-plugin]]
-	5. [[2020-09-12vi|vim-airline]]
-	6. [[2020-09-12vim|vim-airline-themes]]
-	7. [[2020-09-12v|vim-auto-save]]
-	8. [[2020-09-12vim-n|vim-nerdtree-sync]]
-	9. [[2020-09-12vim-|vim-nerdtree-syntax-highlighting]]
-	10. 
+	2. [[2020-09-12ca|calendar-vim]]
+	3. [[2020-09-12cl|close-buffers]]
+	4. [[2020-09-12n|nerdcommenter]]
+	5. [[2020-09-12ne|nerdtree]]
+	6. [[2020-09-12nerd|nerdtree-visual-selection]]
+	7. [[2020-09-12ner|nerdtree-git-plugin]]
+	8. [[2020-09-12vimw|vimwiki]]
+	9. [[2020-09-12vi|vim-airline]]
+	10. [[2020-09-12vim|vim-airline-themes]]
+	11. [[2020-09-12v|vim-auto-save]]
+	12. [[2020-09-12vim-c|vim-code-dark]]
+	13. [[2020-09-12vim-g|vim-gitgutter]]
+	14. [[2020-09-12vim-n|vim-nerdtree-sync]]
+	15. [[2020-09-12vim-|vim-nerdtree-syntax-highlighting]]
+	16. [[2020-09-12vim-s|vim-signify]]
+	17. 
 
 = python =
 	== frameworks ==
