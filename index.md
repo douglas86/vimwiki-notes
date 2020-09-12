@@ -32,15 +32,20 @@
 	== installation and setup ==
 	1. [[2020-09-12c|Creating a neovim config file]]
 	2. [[2020-09-12i|Installing nvim]]
-	3. [[2020-09-12in|Installing plugin manager]]
+	3. [[2020-09-12in|Installing plugin manager vim-plug]]
 	4. 
 	== plugins ==
 	1. [[2020-09-12a|auto-pairs]]
 	2. [[2020-09-12n|nerdcommenter]]
-	3. [[2020-09-12vi|vim-airline]]
-	4. [[2020-09-12vim|vim-airline-themes]]
-	5. [[2020-09-12v|vim-auto-save]]
-	6. 
+	3. [[2020-09-12ne|nerdtree]]
+	
+	4. [[2020-09-12ner|nerdtree-git-plugin]]
+	5. [[2020-09-12vi|vim-airline]]
+	6. [[2020-09-12vim|vim-airline-themes]]
+	7. [[2020-09-12v|vim-auto-save]]
+	8. [[2020-09-12vim-n|vim-nerdtree-sync]]
+	9. [[2020-09-12vim-|vim-nerdtree-syntax-highlighting]]
+	10. 
 
 = python =
 	== frameworks ==
