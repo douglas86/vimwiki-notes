@@ -22,6 +22,11 @@
 	1. [[2020-09-03l|Bootstrap links]]
 	2. 
 
+= nvim =
+	== installation and setup ==
+	1. [[2020-09-12i|Installing nvim]]
+	2. 
+
 = python =
 	== frameworks ==
 	
