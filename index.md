@@ -23,7 +23,10 @@
 	2. 
 
 = linux =
-
+	== linux commands ==
+	=== alias ===
+	1. [[2020-09-12t|Temporary aliases]]
+	2. 
 
 = nvim =
 	== installation and setup ==
