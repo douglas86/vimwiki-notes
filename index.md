@@ -24,8 +24,9 @@
 
 = nvim =
 	== installation and setup ==
-	1. [[2020-09-12i|Installing nvim]]
-	2. 
+	1. [[2020-09-12c|Creating a neovim config file]]
+	2. [[2020-09-12i|Installing nvim]]
+	3. 
 
 = python =
 	== frameworks ==
