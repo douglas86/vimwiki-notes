@@ -35,8 +35,11 @@
 	3. [[2020-09-12in|Installing plugin manager]]
 	4. 
 	== plugins ==
-	1. [[2020-09-12v|vim-auto-save]]
-	2. 
+	1. [[2020-09-12a|auto-pairs]]
+	2. [[2020-09-12vi|vim-airline]]
+	3. [[2020-09-12vim|vim-airline-themes]]
+	4. [[2020-09-12v|vim-auto-save]]
+	5. 
 
 = python =
 	== frameworks ==
