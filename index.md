@@ -22,6 +22,9 @@
 	1. [[2020-09-03l|Bootstrap links]]
 	2. 
 
+= linux =
+
+
 = nvim =
 	== installation and setup ==
 	1. [[2020-09-12c|Creating a neovim config file]]
