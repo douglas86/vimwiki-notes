@@ -28,7 +28,7 @@
 	1. [[2020-09-12t|Temporary aliases]]
 	2. 
 
-= nvim =
+= nvim or neovim =
 	== installation and setup ==
 	1. [[2020-09-12c|Creating a neovim config file]]
 	2. [[2020-09-12i|Installing nvim]]
