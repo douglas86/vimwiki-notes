@@ -89,8 +89,9 @@
 	11. [[2020-09-12vim-g|vim-gitgutter]]
 	12. [[2020-09-12vim-n|vim-nerdtree-sync]]
 	13. [[2020-09-12vim-|vim-nerdtree-syntax-highlighting]]
-	14. [[2020-09-12vim-s|vim-signify]]
-	15. 
+	14. [[2020-09-13v|vim-prettier]]
+	15. [[2020-09-12vim-s|vim-signify]]
+	16. 
 
 = python =
 	== frameworks ==

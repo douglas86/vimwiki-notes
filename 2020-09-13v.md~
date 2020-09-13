@@ -1,0 +1,9 @@
+
+= vim-prettier =
+
+== installing using vim-plug ==
+* place this in your vimrc file
+	Plug 'prettier/vim-prettier'
+* then restart vim and run the following
+	:PlugInstall
+	
