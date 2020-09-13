@@ -39,6 +39,8 @@
 	2. [[2020-09-12ca|calendar-vim]]
 	3. [[2020-09-12cl|close-buffers]]
 	4. [[2020-09-12co|coc.nvim]]
+		=== extensions ===
+		1. [[2020-09-13c|coc-marketplace]]
 	5. [[2020-09-12in|Installing plugin manager vim-plug]]
 	6. [[2020-09-12n|nerdcommenter]]
 	7. [[2020-09-12ne|nerdtree]]
